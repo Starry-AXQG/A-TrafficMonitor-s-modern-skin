@@ -1,5 +1,5 @@
 # A-TrafficMonitor-s-modern-skin
-_这是为开源软件[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)制作的皮肤。，使用PhotoShop纯手绘完成。_
+_这是为开源软件[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)制作的皮肤，使用PhotoShop纯手绘完成。_
 
 基于市面上加速器、悬浮球为灵感进行设计的皮肤，使用较为青春活力的色彩风格，整体是一个现代的小清新风格希望大家喜欢ヾ(ｏ･ω･)ﾉ
 自软件本体1.85版本更新后，支持了Windows深色/浅色模式 自动切换皮肤，所以本皮肤在第三次重绘时，在采用相较于V2更精细的分辨率的同时绘制了light、dark两款，大家可以在软件的皮肤设置界面完成自动切换：
