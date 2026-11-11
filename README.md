@@ -1,8 +1,10 @@
 # A-TrafficMonitor-s-modern-skin
-_这是为开源软件[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)制作的皮肤，使用PhotoShop纯手绘完成。_
+***_这是为开源软件[TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)制作的皮肤，使用PhotoShop纯手绘完成。_***
 
 基于市面上加速器、悬浮球为灵感进行设计的皮肤，使用较为青春活力的色彩风格，整体是一个现代的小清新风格希望大家喜欢ヾ(ｏ･ω･)ﾉ
+
 自软件本体1.85版本更新后，支持了Windows深色/浅色模式 自动切换皮肤，所以本皮肤在第三次重绘时，在采用相较于V2更精细的分辨率的同时绘制了light、dark两款，大家可以在软件的皮肤设置界面完成自动切换：
+
 ![图片](https://github.com/user-attachments/assets/d146c039-e855-458e-9bb2-29217c577722)
 
 注意：搭配我的 TrafficMonitor的改版 ，网速显示效果更加美观喔！（ https://github.com/1247343406/Make-TrafficMonitor-speed-display-smarter-and-more-beautiful- ）。
@@ -15,7 +17,9 @@ light:
 
 dark：
 ![background_l](https://github.com/user-attachments/assets/cce5ce05-beb2-4c58-ad74-323a6a3cf82c)
+
 （dark在最先绘制的时候给了一个渐变，发现在实际显示过程中存在感较低，所以light和迷你版本的网速显示都没有做渐变处理了）
+
 ![background](https://github.com/user-attachments/assets/91293af5-1c6c-490c-a17e-4d9f918d4786)
 
 
